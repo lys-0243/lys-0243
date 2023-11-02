@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lys-0243
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning about fullstack JavaScript
+- 🌱 I’m currently fullstack Web Dev
 - 💞️ I’m looking to collaborate on new skills
 - 📫 How to reach me ...
 
